@@ -1,0 +1,6 @@
+git add test.txt
+git add test.txt
+git stat
+git status
+Hello this is a test
+git add test.txt
